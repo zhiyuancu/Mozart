@@ -5,7 +5,7 @@ This is the repo for MobiSys 2023 paper: "Mozart: A Mobile ToF System for Sensin
 
 # Requirements
 The program has been tested in the following environment: 
-* MacOS 13.3.1
+* Ubuntu 18.04
 * Python 3.6.8
 * Pillow 8.2.0
 * opencv-python 4.5.3.56
