@@ -1,18 +1,15 @@
 # Mozart 
 
-Here we provide the codes and datasets of Mozart (MobiSys' 23).
-
 This is the repo for MobiSys 2023 paper: "Mozart: A Mobile ToF System for Sensing in the Dark through Phase Manipulation".
 <br>
 
 # Requirements
 The program has been tested in the following environment: 
-* Ubuntu 18.04
+* MacOS 13.3.1
 * Python 3.6.8
-* Tensorflow 2.4.0
-* sklearn 0.23.1
-* opencv-python 4.2.0
-* Keras-python 2.3.1
+* Pillow 8.2.0
+* opencv-python 4.5.3.56
+* torch 1.10.0
 * numpy 1.19.5
 <br>
 
