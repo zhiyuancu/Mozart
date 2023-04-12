@@ -15,7 +15,7 @@ The program has been tested in the following environment:
 
 # Mozart Overview
 <p align="center" >
-	<img src="https://github.com/zhiyuancu/Mozart/blob/main/Figures/system-overview.jpg" width="500">
+	<img src="https://github.com/zhiyuancu/Mozart/blob/main/Figures/system-overview.jpg" width="800">
 </p>
 
 * ClusterFL on client: 
@@ -29,7 +29,7 @@ The program has been tested in the following environment:
 
 # Project Strcuture
 ```
-|-- client                    // code in client side
+|-- code                    // code
     |-- client_cfmtl.py/	// main file of client 
     |-- communication.py/	// set up communication with server
     |-- data_pre.py/		// prepare for the FL data
