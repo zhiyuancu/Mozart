@@ -18,7 +18,7 @@ The program has been tested in the following environment:
 
 # Mozart Overview
 <p align="center" >
-	<img src="https://github.com/xmouyang/ClusterFL/blob/main/figures/ClusterFL-system-overview.png" width="500">
+	<img src="https://github.com/zhiyuancu/Mozart/blob/main/Figures/system-overview.jpg" width="500">
 </p>
 
 * ClusterFL on client: 
