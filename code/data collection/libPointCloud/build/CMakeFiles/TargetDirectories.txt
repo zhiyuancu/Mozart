@@ -1,0 +1,11 @@
+/Users/xiezhiyuan/libPointCloud/build/CMakeFiles/rebuild_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/CMakeFiles/edit_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/DepthMeasure/CMakeFiles/rebuild_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/DepthMeasure/CMakeFiles/edit_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/DepthMeasure/CMakeFiles/DepthMeasure.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/ParseVXL/CMakeFiles/rebuild_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/ParseVXL/CMakeFiles/edit_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/ParseVXL/CMakeFiles/ParseVXL.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/ExtractRawData/CMakeFiles/rebuild_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/ExtractRawData/CMakeFiles/edit_cache.dir
+/Users/xiezhiyuan/libPointCloud/build/examples/ExtractRawData/CMakeFiles/ExtractRawData.dir
