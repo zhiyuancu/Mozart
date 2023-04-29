@@ -1,4 +1,4 @@
-# Install script for directory: /Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection
+# Install script for directory: /Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

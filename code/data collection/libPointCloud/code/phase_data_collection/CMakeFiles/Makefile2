@@ -63,10 +63,10 @@ RM = /usr/local/Cellar/cmake/3.19.1/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection"
+CMAKE_SOURCE_DIR = "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection"
+CMAKE_BINARY_DIR = "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -93,14 +93,14 @@ clean: CMakeFiles/get_raw_phase.dir/clean
 CMakeFiles/get_raw_phase.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/get_raw_phase.dir/build.make CMakeFiles/get_raw_phase.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/get_raw_phase.dir/build.make CMakeFiles/get_raw_phase.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" --progress-num=1,2 "Built target get_raw_phase"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" --progress-num=1,2 "Built target get_raw_phase"
 .PHONY : CMakeFiles/get_raw_phase.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/get_raw_phase.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/get_raw_phase.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" 0
 .PHONY : CMakeFiles/get_raw_phase.dir/rule
 
 # Convenience name for target.

@@ -188,11 +188,11 @@ Common.h
 stdint.h
 -
 
-/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/get_raw_phase.cpp
+/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/get_raw_phase.cpp
 Common.h
-/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/Common.h
+/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/Common.h
 Logger.h
-/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/Logger.h
+/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/Logger.h
 unistd.h
 -
 stdio.h
@@ -200,7 +200,7 @@ stdio.h
 string.h
 -
 CameraSystem.h
-/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/CameraSystem.h
+/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/CameraSystem.h
 sys/wait.h
 -
 iostream
@@ -220,7 +220,7 @@ ctime
 sys/time.h
 -
 opencv2/opencv.hpp
-/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/opencv2/opencv.hpp
+/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/opencv2/opencv.hpp
 
 /usr/local/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp

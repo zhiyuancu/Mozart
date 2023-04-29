@@ -23,7 +23,7 @@ CMakeFiles/get_raw_phase.dir/get_raw_phase.o
  ../../libs/macos/include/pointcloud-1.0.0/SerializedObject.h
  ../../libs/macos/include/pointcloud-1.0.0/Timer.h
  ../../libs/macos/include/pointcloud-1.0.0/VideoMode.h
- /Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/get_raw_phase.cpp
+ /Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/get_raw_phase.cpp
  /usr/local/include/opencv4/opencv2/calib3d.hpp
  /usr/local/include/opencv4/opencv2/core.hpp
  /usr/local/include/opencv4/opencv2/core/affine.hpp

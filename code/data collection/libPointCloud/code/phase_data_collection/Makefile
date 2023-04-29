@@ -67,10 +67,10 @@ RM = /usr/local/Cellar/cmake/3.19.1/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection"
+CMAKE_SOURCE_DIR = "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection"
+CMAKE_BINARY_DIR = "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection//CMakeFiles/progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/artifact/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/xiezhiyuan/Desktop/Mozart/code/data collection/libPointCloud/code/phase_data_collection/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
