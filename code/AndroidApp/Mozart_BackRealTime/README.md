@@ -1,5 +1,4 @@
 # Real Time Mozart using Back ToF cameras on Android smartphones 
-<p><img src="docs/demo.gif"/></p>
 
 This is an example app that demonstrates how to capture and process data from a Time of Flight camera and generate Mozart maps in real-time, specifically the back-facing "3D Camera" on the android smartphones.
 
