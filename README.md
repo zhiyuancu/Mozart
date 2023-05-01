@@ -19,6 +19,8 @@ Different modules require different running environment, detailed requirements c
 	* Used for lightweight phase manipulation;
 	* Provide several pre-defined functions for your choice;
 	* You can also design your own functions for exposing and enhancing Mozart maps
+* Autoencoder:
+	* Used for autoencoder-based phase manipulation.
 
 
 # Project Strcuture
@@ -26,17 +28,18 @@ Different modules require different running environment, detailed requirements c
 |-- code               // code
     |-- AndroidApp	// Android app 
     	|-- Mozart_BackRealTime //An app that demonstrates Mozart on mobile phones in real-time
+    
     |-- autoencoder	// autoencoder-based Mozart training and inference
     	|-- IQ-NN-example
+    
     |-- data collection		// code for collecting data
         |-- CalFromDepthAndIR
 	|-- libPointCloud
+    
     |-- light-weight-manipulation
     	|-- mozart_manual.py	// code for lightweight phase manipulation
 	|-- cwToF		// data of cwToF
 	|-- pToF		// data of pToF
-
-        
 
 |-- README.md
 
