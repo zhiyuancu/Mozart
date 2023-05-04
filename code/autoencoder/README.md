@@ -12,6 +12,6 @@ to train the autoencoder for Mozart generation.
 
 Then you can run
 ```
-python3 inference.py folder_name
+python3 inference.py folder_name/
 ```
 for inference.
