@@ -18,6 +18,8 @@ torch                        1.9.0+cu111
 
 torchvision                  0.10.0+cu111
 
+Pillow                  8.2.0
+
 ### Quick Start
 Example data is provided in the *example_1, example_2, example_3* folder. You can run
 
