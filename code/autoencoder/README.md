@@ -1,6 +1,17 @@
 ### Autoencoder for Mozart
 This folder is for autoencoder-based Mozart.
 
+### Running Environments
+matplotlib                   3.5.1
+numpy                        1.20.3
+opencv-python                4.5.5.62
+scikit-image                 0.19.2
+scipy                        1.7.3
+tensorflow                   2.8.0
+torch                        1.9.0+cu111
+torchvision                  0.10.0+cu111
+
+### Quick Start
 Example data is provided in the *example_1, example_2, example_3* folder. You can run
 
 ```
